@@ -1,0 +1,16 @@
+{
+  "name": "2d-multiplayer-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Michal Urban",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^7.0.2",
+    "ws": "^7.2.3"
+  }
+}
